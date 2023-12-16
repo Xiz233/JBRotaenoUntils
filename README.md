@@ -1,5 +1,5 @@
-# JBRotaenoRating
-通过数据计算玩家Rating及B30、R10。
+# JBRotanoUntils
+通过数据计算玩家Rating及B30、R10、等一系列内容。
 
 函数全注释，具体请参考注释使用。
 
